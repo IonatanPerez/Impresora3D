@@ -23,17 +23,6 @@ en Configuration.h línea 846
 %%%%%%%%%%%%%%%%%%%% DATA DEL SERVER %%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%% DATA DEL SERVER %%%%%%%%%%%%%%%%%%%%
 
-lan network ID ssh: patagonia.local
-user: pi
-root password de octopi: Kalabaza220
-
-octoprint server at http://patagonia.local
-username: aconcagua
-pass: 3paltas100+
-
-%%%%%%%%%%%%%%%%%%%% DATA DEL SERVER %%%%%%%%%%%%%%%%%%%%
-%%%%%%%%%%%%%%%%%%%% DATA DEL SERVER %%%%%%%%%%%%%%%%%%%%
-
 - vino fuente de 24 V, nos cambiaron por una de 12 V
 
 - en los dos motores de Z el cable tenía invertidos las dos líneas interiores (rojo y verde) eso trababa los motores y los hacía girar en falso, sin fuerza/torque. Los invertimos y dejamos como los otros motores de X, Y y E0.
@@ -48,7 +37,7 @@ MISCELANEOS
 
 CUENTA DE GOOGLE PARA USAR DRIVE O LO QUE SEA
 
-soraimpre3d@gmail.com, pass: Kalabaza220
+soraimpre3d@gmail.com, pass: ************
 
 
 
